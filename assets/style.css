@@ -5,7 +5,7 @@
     }
     
     body {
-        background-color:rgb(148, 85, 162);
+        background-color:rgb(35, 207, 1);
         front-family: Bai Jamjuree;
     }
     
@@ -39,7 +39,7 @@
     
                 .cartao {
                     margin: 1rem 1rem;
-                    background-color:blanchedalmond;
+                    background-color:rgb(196, 14, 233);
                     height: 20rem;
                     flex-grow: 1;
                     flex-basis: calc(33% - 6rem);
